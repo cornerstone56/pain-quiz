@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "title": "나에게 맞는 통증 치료 찾기 | 라온한의원"
+  },
+  "brand": {
+    "clinic": "라온한의원"
+  },
+  "start": {
+    "title": "나에게 맞는<br>통증 치료 찾기",
+    "description": "몇 가지 질문에 답하시면, 진료에 참고할 치료 방향을 안내해 드려요. 결과는 참고용이며 진단이 아닙니다.",
+    "button": "시작하기"
+  },
+  "nav": {
+    "back": "이전",
+    "next": "다음",
+    "restart": "처음부터 다시",
+    "progress": "{current} / {total}"
+  },
+  "questions": {
+    "areas": {
+      "text": "아픈 곳을 눌러 주세요",
+      "front": "앞모습",
+      "back": "뒷모습",
+      "hint": "그림을 눌러 아픈 곳을 골라주세요",
+      "cancelHint": "한 번 더 누르면 취소돼요",
+      "selected": "고른 곳: {areas}",
+      "frontImageAlt": "사람 몸 앞모습 그림",
+      "backImageAlt": "사람 몸 뒷모습 그림",
+      "frontAria": "앞모습에서 부위 선택",
+      "backAria": "뒷모습에서 부위 선택"
+    },
+    "duration": {
+      "text": "아프신지 얼마나 되셨나요?",
+      "under2w": "2주 이내",
+      "2wTo1m": "2주~1개월",
+      "1to3m": "1~3개월",
+      "over3m": "3개월 이상"
+    },
+    "pain": {
+      "text": "통증의 정도를 골라주세요",
+      "aria": "통증의 정도 0에서 10",
+      "none": "통증 없음",
+      "worst": "가장 심한 통증"
+    },
+    "daily": {
+      "text": "통증 때문에 일상생활이 불편하신가요?",
+      "hard": "많이 불편해요",
+      "ok": "견딜 만해요"
+    },
+    "tingling": {
+      "text": "저린 느낌이 같이 있나요?",
+      "yes": "네",
+      "no": "아니요"
+    },
+    "weakness": {
+      "text": "힘이 빠지는 느낌이 같이 있나요?",
+      "yes": "네",
+      "no": "아니요"
+    },
+    "wantFast": {
+      "text": "일상생활의 불편함이 빠르게 없어지기를 원하시나요?",
+      "yes": "네",
+      "no": "아니요"
+    }
+  },
+  "areas": {
+    "labels": {
+      "headFront": "머리(앞)",
+      "neckFront": "목(앞)",
+      "shoulderFrontRight": "오른쪽 어깨(앞)",
+      "shoulderFrontLeft": "왼쪽 어깨(앞)",
+      "chest": "가슴",
+      "abdomen": "복부",
+      "groin": "사타구니",
+      "upperArmFrontRight": "오른쪽 위팔(앞)",
+      "upperArmFrontLeft": "왼쪽 위팔(앞)",
+      "forearmFrontRight": "오른쪽 아래팔(앞)",
+      "forearmFrontLeft": "왼쪽 아래팔(앞)",
+      "thighFrontRight": "오른쪽 허벅지(앞)",
+      "thighFrontLeft": "왼쪽 허벅지(앞)",
+      "lowerLegFrontRight": "오른쪽 아래다리(앞)",
+      "lowerLegFrontLeft": "왼쪽 아래다리(앞)",
+      "headBack": "머리(뒤)",
+      "neckBack": "목(뒤)",
+      "shoulderBackRight": "오른쪽 어깨(뒤)",
+      "shoulderBackLeft": "왼쪽 어깨(뒤)",
+      "upperBack": "등",
+      "waist": "허리",
+      "hip": "엉치",
+      "upperArmBackRight": "오른쪽 위팔(뒤)",
+      "upperArmBackLeft": "왼쪽 위팔(뒤)",
+      "forearmBackRight": "오른쪽 아래팔(뒤)",
+      "forearmBackLeft": "왼쪽 아래팔(뒤)",
+      "thighBackRight": "오른쪽 허벅지(뒤)",
+      "thighBackLeft": "왼쪽 허벅지(뒤)",
+      "lowerLegBackRight": "오른쪽 아래다리(뒤)",
+      "lowerLegBackLeft": "왼쪽 아래다리(뒤)"
+    },
+    "format": {
+      "right": "오른쪽",
+      "left": "왼쪽",
+      "front": "앞",
+      "back": "뒤",
+      "bothSides": "양쪽",
+      "faceJoiner": "·",
+      "listJoiner": ", "
+    }
+  },
+  "main": {
+    "intensifying": {
+      "name": "통증 심화 치료",
+      "explain": "답변하신 통증 정도, 아픈 기간, 저림·힘 빠짐, 일상생활 불편 정도를 바탕으로 좀 더 집중적인 치료를 함께 상담해 보시길 안내해 드려요."
+    },
+    "basic": {
+      "name": "통증 기본 치료",
+      "explain": "통증이 생긴 지 오래되지 않았고 정도가 가벼운 편으로 보여요. 상담 후 맞는 치료를 함께 정해요."
+    }
+  },
+  "treatments": {
+    "maesun": {
+      "name": "매선 치료",
+      "explain": "녹는 실을 넣는 치료",
+      "detail": [
+        {
+          "text": "약해진 근육·인대 조직을 튼튼하게 하고 긴장된 조직을 풀어주기 위해 녹는 실을 넣는 치료예요."
+        }
+      ]
+    },
+    "dochim": {
+      "name": "도침 치료",
+      "explain": "굳고 달라붙은 부위를 위한 치료",
+      "detail": [
+        {
+          "text": "손상이 오래 쌓여 굳고 달라붙은(유착된) 부위를 치료하기 위해 쓰는 치료예요."
+        }
+      ]
+    },
+    "yakchim": {
+      "name": "약침 치료",
+      "explain": "한약재 추출물을 경혈에 주입하는 치료",
+      "detail": [
+        {
+          "text": "한약재에서 추출한 약액을 경혈에 주입하는 치료예요."
+        },
+        {
+          "title": "무통약침",
+          "text": "통증이 극심할 때 고려하는 약침이에요."
+        },
+        {
+          "title": "태반약침",
+          "text": "통증이 오래되었거나 피로감이 함께 느껴질 때 고려하는 약침이에요."
+        }
+      ]
+    },
+    "chuna": {
+      "name": "추나 치료",
+      "explain": "척추와 관절을 살피는 한방 수기 치료",
+      "detail": [
+        {
+          "text": "척추와 관절의 틀어진 부분을 바로잡는 치료예요."
+        },
+        {
+          "text": "연 20회까지 건강보험이 적용돼요."
+        }
+      ]
+    }
+  },
+  "badges": {
+    "recommended": "추천",
+    "consult": "상담 후 선택"
+  },
+  "treatmentUi": {
+    "detailTitle": "· {title}: ",
+    "expand": "자세히 ▾",
+    "collapse": "접기 ▴"
+  },
+  "result": {
+    "basedOn": "답변을 바탕으로",
+    "recommend": "“{name}”를<br>추천해 드려요",
+    "tapHint": "치료 이름을 누르면 어떤 치료인지 볼 수 있어요",
+    "imageHeading": "통증 문진 결과",
+    "drawFailed": "이 기기에서는 결과 이미지를 그릴 수 없어요. 이 화면을 캡처해서 보관하세요.",
+    "makeFailed": "이 기기에서는 결과 이미지를 만들 수 없어요. 이 화면을 캡처해서 보관하세요.",
+    "making": "결과 이미지를 만들고 있어요…",
+    "tapCardToZoom": "카드를 누르면 크게 볼 수 있어요",
+    "tapImageToZoom": "이미지를 누르면 크게 볼 수 있어요",
+    "saveShare": "이미지 저장 및 공유",
+    "imageAlt": "통증 문진 요약 이미지",
+    "canvasAlt": "통증 문진 요약",
+    "zoomDialog": "통증 문진 요약 크게 보기",
+    "close": "닫기",
+    "longPress": "이미지를 길게 눌러 저장·공유할 수 있어요",
+    "captureInstead": "화면을 캡처해서 저장·공유해 주세요",
+    "shareTitle": "통증 문진 요약"
+  },
+  "card": {
+    "title": "통증 문진 요약",
+    "front": "앞모습",
+    "back": "뒷모습",
+    "recommendedHeading": "추천받은 치료",
+    "footer": "이 결과는 참고용이며 진단이 아닙니다. 자세한 내용은 원장님과 상담해 주세요.",
+    "fileName": "라온한의원_통증문진_{date}.png",
+    "date": "{year}년 {month}월 {day}일",
+    "painValue": "{score} / 10",
+    "recommendedItem": "{name} (추천)",
+    "consultFallback": "약침·추나·매선·도침 중 상담 후 선택",
+    "rows": {
+      "area": "아픈 곳",
+      "duration": "아픈 기간",
+      "pain": "통증 점수",
+      "daily": "일상생활",
+      "tingling": "저림",
+      "weakness": "힘 빠짐",
+      "present": "있음",
+      "absent": "없음"
+    }
+  }
+}
